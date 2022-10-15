@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { Select, SelectOption } from "./Select"
+import { Select, SelectOption } from "./components/Select"
 
 const options = [
   { label: "First", value: 1 },
